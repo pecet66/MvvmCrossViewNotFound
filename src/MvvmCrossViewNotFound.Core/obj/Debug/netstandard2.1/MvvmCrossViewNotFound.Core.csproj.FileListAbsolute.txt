@@ -1,0 +1,8 @@
+C:\projekty\MvvmViewNotFound\MvvmCrossViewNotFound\src\MvvmCrossViewNotFound.Core\bin\Debug\netstandard2.1\MvvmCrossViewNotFound.Core.deps.json
+C:\projekty\MvvmViewNotFound\MvvmCrossViewNotFound\src\MvvmCrossViewNotFound.Core\bin\Debug\netstandard2.1\MvvmCrossViewNotFound.Core.dll
+C:\projekty\MvvmViewNotFound\MvvmCrossViewNotFound\src\MvvmCrossViewNotFound.Core\bin\Debug\netstandard2.1\MvvmCrossViewNotFound.Core.pdb
+C:\projekty\MvvmViewNotFound\MvvmCrossViewNotFound\src\MvvmCrossViewNotFound.Core\obj\Debug\netstandard2.1\MvvmCrossViewNotFound.Core.csprojAssemblyReference.cache
+C:\projekty\MvvmViewNotFound\MvvmCrossViewNotFound\src\MvvmCrossViewNotFound.Core\obj\Debug\netstandard2.1\MvvmCrossViewNotFound.Core.AssemblyInfoInputs.cache
+C:\projekty\MvvmViewNotFound\MvvmCrossViewNotFound\src\MvvmCrossViewNotFound.Core\obj\Debug\netstandard2.1\MvvmCrossViewNotFound.Core.AssemblyInfo.cs
+C:\projekty\MvvmViewNotFound\MvvmCrossViewNotFound\src\MvvmCrossViewNotFound.Core\obj\Debug\netstandard2.1\MvvmCrossViewNotFound.Core.dll
+C:\projekty\MvvmViewNotFound\MvvmCrossViewNotFound\src\MvvmCrossViewNotFound.Core\obj\Debug\netstandard2.1\MvvmCrossViewNotFound.Core.pdb
